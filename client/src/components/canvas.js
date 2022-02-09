@@ -175,7 +175,7 @@ class Canvas extends Component {
 
                         <div className="row py-2">
                             <div className="col-12">
-                                <canvas id="canvas" width="800" height="500" style={{ border: "1px solid #333" }}></canvas>
+                                <canvas id="canvas" width="800" height="600" style={{ border: "1px solid #333" }}></canvas>
                                 <div id="output"></div>
                             </div>
                         </div>
